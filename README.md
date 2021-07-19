@@ -3,7 +3,7 @@
 ## Purpose
 To map earthquake data for the past 7 days over the globe and relate the data to the position of the tectonic plates. This map was created using JS, Leaflet.js, and geoJSON data.
 <br>
-Please navigate to the Earthquake_Challenge folder to view all relevant files.
+Please navigate to the Earthquake_Challenge folder to view all relevant files. (https://github.com/christopher-ko-law/Mapping_Earthquakes/tree/main/Earthquake_Challenge)
 
 ## Results
 This map includes: 
